@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12314D5A-DD8D-03B6-4A8A-BF07BA1B105D}|Assembly-CSharp.csproj|c:\\users\\vardh\\downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12314D5A-DD8D-03B6-4A8A-BF07BA1B105D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\Library\\PackageCache\\com.unity.2d.spriteshape@9.0.4\\Runtime\\SpriteShapeDefaultCreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.spriteshape@9.0.4\\Runtime\\SpriteShapeDefaultCreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\UnityTestProtocol\\ITestRunnerApiMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\UnityTestProtocol\\ITestRunnerApiMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12314D5A-DD8D-03B6-4A8A-BF07BA1B105D}|Assembly-CSharp.csproj|C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\assets\\scripts\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12314D5A-DD8D-03B6-4A8A-BF07BA1B105D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12314D5A-DD8D-03B6-4A8A-BF07BA1B105D}|Assembly-CSharp.csproj|C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12314D5A-DD8D-03B6-4A8A-BF07BA1B105D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\Assets\\Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
+              "ToolTip": "C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\Assets\\Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:29:29.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpriteShapeDefaultCreator.cs",
+              "DocumentMoniker": "C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\Library\\PackageCache\\com.unity.2d.spriteshape@9.0.4\\Runtime\\SpriteShapeDefaultCreator.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.spriteshape@9.0.4\\Runtime\\SpriteShapeDefaultCreator.cs",
+              "ToolTip": "C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\Library\\PackageCache\\com.unity.2d.spriteshape@9.0.4\\Runtime\\SpriteShapeDefaultCreator.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.spriteshape@9.0.4\\Runtime\\SpriteShapeDefaultCreator.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:47:43.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITestRunnerApiMapper.cs",
+              "DocumentMoniker": "C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\UnityTestProtocol\\ITestRunnerApiMapper.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\UnityTestProtocol\\ITestRunnerApiMapper.cs",
+              "ToolTip": "C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\UnityTestProtocol\\ITestRunnerApiMapper.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\UnityTestProtocol\\ITestRunnerApiMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:47:22.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\AssemblyInfo.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.test-framework@1.1.33\\UnityEditor.TestRunner\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:47:01.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Parallax.cs",
+              "DocumentMoniker": "C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\Assets\\Scripts\\Parallax.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Parallax.cs",
+              "ToolTip": "C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\Assets\\Scripts\\Parallax.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Parallax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T08:36:49.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\vardh\\Downloads\\unity-flappy-bird-tutorial-main\\unity-flappy-bird-tutorial-main\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:24:20.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
